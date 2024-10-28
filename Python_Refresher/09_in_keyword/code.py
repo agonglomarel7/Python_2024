@@ -6,3 +6,5 @@ name = ["Ken","Jen", "Adi"]
 user_name = input("What is the author name ? ")
 
 print(user_name in name)
+
+print ("Bob" in "my name is Bob")
